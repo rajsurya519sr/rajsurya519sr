@@ -1,7 +1,54 @@
 <!-- Header Section with Gradient Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=3498DB&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+My+GitHub+Profile;Software+Developer;Full+Stack+Developer;Cloud+Learner;AI+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
 
----
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rajsurya519sr/rajsurya519sr/output/snake.svg"
+       alt="Snake animation" />
+</div>
+
+
+###
+
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajsurya519sr/rajsurya519sr/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajsurya519sr/rajsurya519sr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rajsurya519sr/rajsurya519sr/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
 
 # 💫 About Me:
 👋 Hey there! I’m Surya Raj<br><br>💻 Software Developer | 🌐 Full-Stack | 🤖 AI Curious | ☁️ Cloud Learner  <br><br>---<br><br>❓ Who am I?<br>A curious Software Developer who loves turning ideas into real, working applications.  <br>I enjoy building systems that are **clean, scalable, and actually useful**.<br><br>❓ What do I love building?<br>🚀 Full-stack web apps  <br>⚡ Real-time systems (WebSockets are fun!)  <br>🤖 AI-powered features  <br>🗄️ Database-driven applications  <br>(Yes, I love mixing **AI + real-time systems** 😄) <br>If it solves a real problem, I’m in. <br><br>❓ Cloud & AI experience?<br>Absolutely! ☁️🤖  <br>I’ve worked with Generative AI in projects and hold "Microsoft Azure certifications (AZ-900 & AI-900)".<br><br>❓ What am I learning right now?<br>📈 System design basics  <br>⚙️ Backend optimization  <br>☁️ Cloud deployments  <br>🧼 Writing cleaner & more scalable code <br>🧠 Problem-solving using Data Structures & Algorithms <br><br>❓ What opportunities excite me?<br>👨‍💻 Software Developer  <br>🌐 Full-Stack Developer  <br>🚀 Teams that value learning, clean code, and growth  <br><br>❓ Developer mindset? <br>“Good software is built with clarity, curiosity, and continuous improvement.”<br><br>⭐ If you like my work, feel free to explore my repositories or connect with me!

@@ -21,16 +21,32 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-</div>
+<!--<div align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/surya-raj-20a4bb23a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRVLPKK64Su6gq%2BuGTBLxsQ%3D%3D" target="_blank" title="Connect on LinkedIn">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="60" height="40" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="52" height="40" alt="Gmail" />
+  </a>
+
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+         width="52" height="40" alt="Instagram" />
+  </a>
+
+  <a href="mailto:YOUR_OUTLOOK_EMAIL@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg"
+         width="52" height="40" alt="Outlook" />
+  </a>
+</div>-->
+
 
 ###
 
-<div>
+<!--<div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
@@ -46,16 +62,18 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+</div>-->
 
 ###
 
 # 💫 About Me:
-👋 Hey there! I’m Surya Raj<br><br>💻 Software Developer | 🌐 Full-Stack | 🤖 AI Curious | ☁️ Cloud Learner  <br><br>---<br><br>❓ Who am I?<br>A curious Software Developer who loves turning ideas into real, working applications.  <br>I enjoy building systems that are **clean, scalable, and actually useful**.<br><br>❓ What do I love building?<br>🚀 Full-stack web apps  <br>⚡ Real-time systems (WebSockets are fun!)  <br>🤖 AI-powered features  <br>🗄️ Database-driven applications  <br>(Yes, I love mixing **AI + real-time systems** 😄) <br>If it solves a real problem, I’m in. <br><br>❓ Cloud & AI experience?<br>Absolutely! ☁️🤖  <br>I’ve worked with Generative AI in projects and hold "Microsoft Azure certifications (AZ-900 & AI-900)".<br><br>❓ What am I learning right now?<br>📈 System design basics  <br>⚙️ Backend optimization  <br>☁️ Cloud deployments  <br>🧼 Writing cleaner & more scalable code <br>🧠 Problem-solving using Data Structures & Algorithms <br><br>❓ What opportunities excite me?<br>👨‍💻 Software Developer  <br>🌐 Full-Stack Developer  <br>🚀 Teams that value learning, clean code, and growth  <br><br>❓ Developer mindset? <br>“Good software is built with clarity, curiosity, and continuous improvement.”<br><br>⭐ If you like my work, feel free to explore my repositories or connect with me!
+👋 Hey there! I’m Surya Raj<br><br>💻 Software Developer | 🌐 Full-Stack | 🤖 AI Curious | ☁️ Cloud Learner  
+##
+<br>❓ Who am I?<br>A curious Software Developer who loves turning ideas into real, working applications.  <br>I enjoy building systems that are **clean, scalable, and actually useful**.<br><br>❓ What do I love building?<br>🚀 Full-stack web apps  <br>⚡ Real-time systems (WebSockets are fun!)  <br>🤖 AI-powered features  <br>🗄️ Database-driven applications  <br>(Yes, I love mixing **AI + real-time systems** 😄) <br>If it solves a real problem, I’m in. <br><br>❓ Cloud & AI experience?<br>Absolutely! ☁️🤖  <br>I’ve worked with Generative AI in projects and hold "Microsoft Azure certifications (AZ-900 & AI-900)".<br><br>❓ What am I learning right now?<br>📈 System design basics  <br>⚙️ Backend optimization  <br>☁️ Cloud deployments  <br>🧼 Writing cleaner & more scalable code <br>🧠 Problem-solving using Data Structures & Algorithms <br><br>❓ What opportunities excite me?<br>👨‍💻 Software Developer  <br>🌐 Full-Stack Developer  <br>🚀 Teams that value learning, clean code, and growth  <br><br>❓ Developer mindset? <br>“Good software is built with clarity, curiosity, and continuous improvement.”<br><br>⭐ If you like my work, feel free to explore my repositories or connect with me!
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rsurya_raj/?__pwa=1#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surya-raj-20a4bb23a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRVLPKK64Su6gq%2BuGTBLxsQ%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajsurya519sr@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surya-raj-20a4bb23a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRVLPKK64Su6gq%2BuGTBLxsQ%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajsurya519sr@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rsurya_raj/?__pwa=1#) 
 
 # 💻 Tech Stack:
 🧠 Programming Languages<br></br>
@@ -126,7 +144,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rajsurya519sr&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajsurya519sr&theme=ambient_gradient&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rajsurya519sr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajsurya519sr&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--## 🏆 GitHub Trophies
